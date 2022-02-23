@@ -1,0 +1,78 @@
+.estilo-formulario {
+    border-radius: 15px;
+    border-color:rgba(48, 98, 148, 0.513);;
+    border-style: solid;
+
+    background-image: url(img/fondo-coffe.png);
+    background-size: cover;
+
+    color: white;
+
+    width: 600px;
+    height: 600px;
+    margin-left: 375px;
+
+}
+
+input {
+    border-radius: 10px;
+    height: 20px;
+}
+
+form {
+    margin: 20px;
+}
+
+.boton {
+    margin-top: 10px;
+}
+
+#aceptar, #limpiar {
+    background-color: rgba(66, 42, 11, 0.747);
+    color: white;
+    width: 95px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+#localidad {
+    width: 158px;
+}
+
+#edad {
+    margin-right: 70px;
+    width: 188px;
+}
+
+#nacimiento {
+    width: 143px;
+}
+
+#nombre {
+    margin-right: 70px;
+}
+
+#email {
+    margin-right: 70px;
+    width: 185px;
+}
+
+#password {
+    width: 160px;
+}
+
+#color, #aficion {
+    text-align: center;
+}
+
+.coffe {
+    font-size: 3em;
+    font-family: Verdana;
+    font-family: 'PT Sans';
+    font-style: italic;
+}
+
+#aficion1, #aficion2, #aficion3, #aficion4, #aficion5 {
+    height: none;
+    width: none;
+} 
